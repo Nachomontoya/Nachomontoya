@@ -11,7 +11,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nachomontoya?style=social">
 
 <p align="left">
-Graduated at advertising and public relationships on 2008, I'm a master on Art Direction at Miami Ad School Madrid on 2012 with a 3 months internship at Miami ad School Europe (Hamburg)
+Graduated in advertising and public relationships on 2008, I'm a master on Art Direction at Miami Ad School Madrid on 2012 with a 3 months internship at Miami ad School Europe (Hamburg)
 
 I've worked as Art Director at agencies worldwide such as Ogilvy Paris, Leo Burnett Iberia or Pingüino & Torreblanca among others and worked creating national and international campaigns for brands as Coca-Cola, Grey Goose, Perrier, Fiat, Orange, etc.
 
