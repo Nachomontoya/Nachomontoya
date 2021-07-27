@@ -43,4 +43,4 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
 
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nachomontoya&show_icons=true&locale=en&layout=compact" alt="danilucaci" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nachomontoya&show_icons=true&locale=en" alt="danilucaci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachomontoya&show_icons=true&locale=en" alt="danilucaci" /></p>
