@@ -57,6 +57,7 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" title="sketch"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
 </p>
  
 </br>
