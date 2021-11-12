@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, This is Nacho Montoya 🙋🏼‍♂️</h1>
-<h3 align="center"> 🖥️ Full-Stack Developer | 📷 Art Director | ✏️ Graphic Designer </h3>
+<h3 align="center"> 🖥️ Full-Stack Developer </h3>
 
 <p>
     </br>
@@ -17,24 +17,23 @@ I've worked as Art Director at agencies worldwide such as Ogilvy Paris, Leo Burn
 
 On 2016 I quit working full time at agencies to become a freelancer Art Director and Graphic Designer. Since then, my job is focused on editorials, web design and branding for companies that believe in creativity and are aware of the importance of team working and people to find a real purpose that makes their own difference.
 
-On March 2021 I decided to take a big turn on my career and become a Full Stack Developer. Today I feel very proud of being part of the [Assembler School of Software Engineering](https://www.assemblerschool.com/)
+On March 2021 I decided to take a big turn on my career and become a Full Stack Developer. I made a master on Full Stack Software Engineering at [Assembler School of Software Engineering](https://www.assemblerschool.com/). Today I feel very proud of say that I become a Full Stack developer with a focus on Mongo DB, Express JS, React JS and Node JS (MERN Stack) and a background as creative director and graphic designer. Constantly looking forward to use and learn new technologies, I'm passionate about making the user the center of the product.
 
 </p>
 
-- 🌱 I’m currently studying a **Master in Software Development** at **Assembler School of Software Engineering**
+- 🌱  Full Stack Developer with a **Master in Software Development** at **Assembler School of Software Engineering**
 
-- 👨‍💻 You can find my former portfolio on **[https://nachomontoya.es](https://www.nachomontoya.es)**
+- 👨‍💻  You can find my former portfolio on **[https://nachomontoya.es](https://www.nachomontoya.es)**
 
-- 💬 Ask me about **development, art direction, advertising, graphic design, cooking, paddle**
+- 💬  Ask me about **development, technology, advertising, graphic design, cooking, padel and F1 cars**
 
-- 📫 How to reach me **nacho@nachomontoya.es**
+- 📫  Reach me at **nacho@nachomontoya.es**
 
 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nacho-montoya-49590546/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nachomontoya" height="30" width="40" /></a>
-<a href="https://twitter.com/nacho_mon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nachomontoya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nachomontoya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nachomontoya" height="30" width="40" /></a>
 </p>
 
