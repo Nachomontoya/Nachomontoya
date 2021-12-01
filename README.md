@@ -42,6 +42,7 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" title ="Typescript"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" width="40" height="40" alt="jQuery" title="jQuery" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
@@ -57,6 +58,12 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" title="sketch"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express" alt="Express"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40" title="Yarn" alt="Yarn"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" title="NPM" alt="NPM"/>
+
 </p>
  
 </br>
