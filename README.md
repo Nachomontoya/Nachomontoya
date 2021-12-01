@@ -23,7 +23,7 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
 
 - 🌱  Full Stack Developer with a **Master in Software Development** at **Assembler School of Software Engineering**
 
-- 👨‍💻  You can find my former portfolio on **[https://nachomontoya.es](https://www.nachomontoya.es)**
+- 👨‍💻  You can find my portfolio at **[https://nachomontoya.es](https://www.nachomontoya.es)**
 
 - 💬  Ask me about **development, technology, advertising, graphic design, cooking, padel and F1 cars**
 
