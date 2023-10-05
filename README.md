@@ -23,11 +23,9 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
 
 - 🌱  Full Stack Developer with a **Master in Software Development** at **Assembler School of Software Engineering**
 
-- 👨‍💻  You can find my portfolio at **[https://nachomontoya.es](https://www.nachomontoya.es)**
-
 - 💬  Ask me about **development, technology, advertising, graphic design, cooking, padel and F1 cars**
 
-- 📫  Reach me at **nacho@nachomontoya.es**
+- 📫  Reach me at **montoyanacho@gmail.com**
 
 </br>
 
@@ -63,7 +61,7 @@ On March 2021 I decided to take a big turn on my career and become a Full Stack 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40" title="Yarn" alt="Yarn"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" title="NPM" alt="NPM"/>
-
+    
 </p>
  
 </br>
